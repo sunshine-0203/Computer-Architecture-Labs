@@ -22,7 +22,7 @@ PB20000072 王铖潇
 
 对于64*64的矩阵，截图如下：
 
-![image-20230605111009270](D:\experiment_Vivado\Grade3_spring\Lab5\report\image-20230605111009270.png)
+![image-20230605111009270](report/image-20230605111009270.png)
 
 可以发现，使用AVX的两种方法性能明显好于基础矩阵乘法。但是AVX矩阵乘法和AVX分块矩阵乘法的性能和矩阵大小有关，当矩阵比较小的时候，AVX矩阵乘法和AVX分块矩阵乘法的性能相差不大，甚至AVX矩阵乘法的性能更好；但是矩阵规模较大的时候，AVX分块矩阵乘法的性能明显好于AVX矩阵乘法。
 
@@ -87,9 +87,9 @@ PB20000072 王铖潇
 
 矩阵大小为$2^6*2^6$时，使用`nvprof`工具对矩阵乘法kernel的时间进行profiling，截图如下：
 
-![image-20230605143937047](D:\experiment_Vivado\Grade3_spring\Lab5\report\image-20230605143937047.png)
+![image-20230605143937047](report/image-20230605143937047.png)
 
-![image-20230605143951578](D:\experiment_Vivado\Grade3_spring\Lab5\report\image-20230605143951578.png)
+![image-20230605143951578](report/image-20230605143951578.png)
 
 GPU上，分块矩阵乘法用时短于基础矩阵乘法。
 
@@ -110,7 +110,7 @@ GPU上，分块矩阵乘法用时短于基础矩阵乘法。
 
 `blocksize`为$8*8$的时候，使用`nvprof`工具对矩阵乘法kernel的时间进行profiling，截图如下：
 
-![image-20230605150512633](D:\experiment_Vivado\Grade3_spring\Lab5\report\image-20230605150512633.png)
+![image-20230605150512633](report/image-20230605150512633.png)
 
 可以看出，`blocksize`过小或是过大都会对性能产生负面影响。
 
@@ -131,7 +131,7 @@ GPU上，分块矩阵乘法用时短于基础矩阵乘法。
 
 `Block`大小为$8*8$的时候，使用`nvprof`工具对矩阵乘法kernel的时间进行profiling，截图如下：
 
-![image-20230605151144436](D:\experiment_Vivado\Grade3_spring\Lab5\report\image-20230605151144436.png)
+![image-20230605151144436](report/image-20230605151144436.png)
 
 可以看出，`BLOCK`的大小增加时性能上升。
 
