@@ -25,7 +25,7 @@ PB20000072 王铖潇
 
 参考的图片如下：
 
-![img](D:\experiment_Vivado\Grade3_spring\Lab4\report\webp.webp)
+![img](report/webp.webp)
 
 按照需要查询的PC的低位`addr_search`进行索引：
 
@@ -71,7 +71,7 @@ pc_tag[addr_new] <= predict_new;
 
 与上图几乎同理，只不过是`state`变成了2位，需要维护一个下图的状态机。
 
-![image-20230525165051003](D:\experiment_Vivado\Grade3_spring\Lab4\report\image-20230525165051003.png)
+![image-20230525165051003](report/image-20230525165051003.png)
 
 由于可以借助BTB，所以不需要存储图中的`Entry PC`, `valid`和`predicted target PC`，只需要在BTB表中查询，并且修改更新`state`的过程。
 
@@ -206,7 +206,7 @@ end
 
    快速排序的仿真结果如图：
 
-   ![image-20230525174818342](D:\experiment_Vivado\Grade3_spring\Lab4\report\image-20230525174818342.png)
+   ![image-20230525174818342](report/image-20230525174818342.png)
 
    BHT：
 
@@ -218,7 +218,7 @@ end
 
    矩阵乘法的仿真结果如图：
 
-   ![image-20230530101639739](D:\experiment_Vivado\Grade3_spring\Lab4\report\image-20230530101639739.png)
+   ![image-20230530101639739](report/image-20230530101639739.png)
 
 4. 对比不同策略并分析以上几点的关系
 
