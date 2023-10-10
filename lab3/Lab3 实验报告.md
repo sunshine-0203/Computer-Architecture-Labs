@@ -86,19 +86,19 @@ end
 
 按照行顺序的截图如下：
 
-![image-20230518103231112](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518103231112.png)
+![image-20230518103231112](report/image-20230518103231112.png)
 
-![image-20230518101952280](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518101952280.png)
+![image-20230518101952280](report/image-20230518101952280.png)
 
-![image-20230518102726496](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518102726496.png)
+![image-20230518102726496](report/image-20230518102726496.png)
 
-![image-20230518105837828](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518105837828.png)
+![image-20230518105837828](report/image-20230518105837828.png)
 
-![image-20230518105447617](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518105447617.png)
+![image-20230518105447617](report/image-20230518105447617.png)
 
-![image-20230518141124953](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518141124953.png)
+![image-20230518141124953](report/image-20230518141124953.png)
 
-![image-20230518141642821](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518141642821.png)
+![image-20230518141642821](report/image-20230518141642821.png)
 
 
 
@@ -116,19 +116,19 @@ end
 
 按照行顺序的截图如下：
 
-![image-20230518142103792](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518142103792.png)
+![image-20230518142103792](report/image-20230518142103792.png)
 
-![image-20230518142347740](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518142347740.png)
+![image-20230518142347740](report/image-20230518142347740.png)
 
-![image-20230518142726134](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518142726134.png)
+![image-20230518142726134](report/image-20230518142726134.png)
 
-![image-20230518143059795](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518143059795.png)
+![image-20230518143059795](report/image-20230518143059795.png)
 
-![image-20230518143446912](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518143446912.png)
+![image-20230518143446912](report/image-20230518143446912.png)
 
-![image-20230518143739387](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518143739387.png)
+![image-20230518143739387](report/image-20230518143739387.png)
 
-![image-20230518144122525](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518144122525.png)
+![image-20230518144122525](report/image-20230518144122525.png)
 
 ### Cache性能评估
 
@@ -150,19 +150,19 @@ end
 
 按照行顺序的截图如下：
 
-![image-20230518163531394](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518163531394.png)
+![image-20230518163531394](report/image-20230518163531394.png)
 
-![image-20230518163227053](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518163227053.png)
+![image-20230518163227053](report/image-20230518163227053.png)
 
-![image-20230518163059163](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518163059163.png)
+![image-20230518163059163](report/image-20230518163059163.png)
 
-![image-20230518162952682](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518162952682.png)
+![image-20230518162952682](report/image-20230518162952682.png)
 
-![image-20230518162606145](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518162606145.png)
+![image-20230518162606145](report/image-20230518162606145.png)
 
-![image-20230518162339398](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518162339398.png)
+![image-20230518162339398](report/image-20230518162339398.png)
 
-![image-20230518162441523](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518162441523.png)
+![image-20230518162441523](report/image-20230518162441523.png)
 
 
 
@@ -180,19 +180,19 @@ end
 
 按照行的顺序截图如下：
 
-![image-20230518181517749](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518181517749.png)
+![image-20230518181517749](report/image-20230518181517749.png)
 
-![image-20230518181753978](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518181753978.png)
+![image-20230518181753978](report/image-20230518181753978.png)
 
-![image-20230518181940831](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518181940831.png)
+![image-20230518181940831](report/image-20230518181940831.png)
 
-![image-20230518182140344](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518182140344.png)
+![image-20230518182140344](report/image-20230518182140344.png)
 
-![image-20230518182331496](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518182331496.png)
+![image-20230518182331496](report/image-20230518182331496.png)
 
-![image-20230518182558199](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518182558199.png)
+![image-20230518182558199](report/image-20230518182558199.png)
 
-![image-20230518182849027](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518182849027.png)
+![image-20230518182849027](report/image-20230518182849027.png)
 
 
 
@@ -212,19 +212,19 @@ end
 
 按顺序的仿真截图如下：
 
-![image-20230518163851856](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518163851856.png)
+![image-20230518163851856](report/image-20230518163851856.png)
 
-![image-20230518163940881](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518163940881.png)
+![image-20230518163940881](report/image-20230518163940881.png)
 
-![image-20230518164041721](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518164041721.png)
+![image-20230518164041721](report/image-20230518164041721.png)
 
-![image-20230518165453229](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518165453229.png)
+![image-20230518165453229](report/image-20230518165453229.png)
 
-![image-20230518165816095](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518165816095.png)
+![image-20230518165816095](report/image-20230518165816095.png)
 
-![image-20230518170002036](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518170002036.png)
+![image-20230518170002036](report/image-20230518170002036.png)
 
-![image-20230518170113308](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518170113308.png)
+![image-20230518170113308](report/image-20230518170113308.png)
 
 
 
@@ -242,19 +242,19 @@ end
 
 按照行的顺序截图如下：
 
-![image-20230518172243883](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518172243883.png)
+![image-20230518172243883](report/image-20230518172243883.png)
 
-![image-20230518172735019](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518172735019.png)
+![image-20230518172735019](report/image-20230518172735019.png)
 
-![image-20230518172524972](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518172524972.png)
+![image-20230518172524972](report/image-20230518172524972.png)
 
-![image-20230518180055546](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518180055546.png)
+![image-20230518180055546](report/image-20230518180055546.png)
 
-![image-20230518180208086](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518180208086.png)
+![image-20230518180208086](report/image-20230518180208086.png)
 
-![image-20230518181202302](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518181202302.png)
+![image-20230518181202302](report/image-20230518181202302.png)
 
-![image-20230518180330709](D:\experiment_Vivado\Grade3_spring\Lab3\report\image-20230518180330709.png)
+![image-20230518180330709](report/image-20230518180330709.png)
 
 
 
