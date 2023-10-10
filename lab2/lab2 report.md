@@ -93,11 +93,11 @@ SLLI、SRLI、SRAI、ADD、SUB、SLL、SLT、SLTU、XOR、SRL、SRA、OR、AND�
 
 三个测试样例的仿真结果如下：
 
-![image-20230421170315095](report\image-20230421170315095.png)
+![image-20230421170315095](report/image-20230421170315095.png)
 
-![image-20230421170412285](report\image-20230421170412285.png)
+![image-20230421170412285](report/image-20230421170412285.png)
 
-![image-20230421170516828](report\image-20230421170516828.png)
+![image-20230421170516828](report/image-20230421170516828.png)
 
 `gp`寄存器的结果是1，说明通过全部的测试样例。
 
@@ -135,7 +135,7 @@ SLLI、SRLI、SRAI、ADD、SUB、SLL、SLT、SLTU、XOR、SRL、SRA、OR、AND�
 
 #### 实验结果
 
-![image-20230421170033193](D:\upload\experiment_Vivado\Grade3_spring\lab2\report\image-20230421170033193.png)
+![image-20230421170033193](report/image-20230421170033193.png)
 
 `gp`寄存器的结果是1，说明通过全部的测试样例。
 
