@@ -1,0 +1,39 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ALU.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/AddrEx.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ExMemSegReg/AddrMem.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/MemWbSegReg/AddrWb.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/BrTarget.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/BranchDecision.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/CSR/CSR_EX.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/CSR/CSR_Regfile.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ControllerDecoder.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/CtrlEx.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ExMemSegReg/CtrlMem.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/MemWbSegReg/CtrlWb.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/Cache/DataCache.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/DataExtend.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/GeneralRegister.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/Hazard.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IfIdSegReg/IR.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/Imm.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ImmExtend.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/Cache/InstructionCache.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/NPCGenerator.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/Op1.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/PC.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/PcEx.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IfIdSegReg/PcId.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/RV32ICore.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/IdExSegReg/Reg2Ex.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ExMemSegReg/Reg2Mem.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/ExMemSegReg/Result.v" \
+"../../../../lab2.srcs/sources_1/imports/PART-code/MemWbSegReg/WbData.v" \
+"../../../../lab2.srcs/sim_1/imports/Simulation/testBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
